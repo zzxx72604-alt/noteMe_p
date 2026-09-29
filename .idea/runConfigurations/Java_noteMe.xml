@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Java_noteMe" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.templete.noteMe" />
+    <module name="P_noteMe" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;D:\LEARN_Research\JAVA_SDK\openjfx-27_windows-x64_bin-sdk\javafx-sdk-27\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
